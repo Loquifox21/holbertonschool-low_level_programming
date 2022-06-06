@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- *  * main - Write a C program that prints
- *   * Return: 0
- *    */
+ * main - Write a C program that prints
+ * Return: 0
+ */
 
 int main(void)
 {

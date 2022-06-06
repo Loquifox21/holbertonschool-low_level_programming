@@ -2,7 +2,7 @@
 #include <unistd.h>
 
 /**
- * main - whatever
+ * main - programm
  * Return: 1
  */
 
@@ -11,5 +11,5 @@ int main(void)
 	
 	write(1, "and that piece of art is useful\" - Dora Korpar, 2015-10-19", 21);
 	
-	return (1)
+	return (1);
 } 

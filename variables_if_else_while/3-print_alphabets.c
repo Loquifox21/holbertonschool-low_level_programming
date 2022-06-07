@@ -9,11 +9,12 @@ int main(void)
 	char k;
 
 	for (c = 'a'; c <= 'z'; c++)
-	for (k = 'A'; k <= 'Z'; k++)
 	{
 	putchar(c);
 	}
-	{
+
+	for (k = 'A'; k <= 'Z'; k++)
+	{	
 	putchar(k);
 	}
 	putchar('\n');

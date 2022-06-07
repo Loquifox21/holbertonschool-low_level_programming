@@ -10,7 +10,7 @@ int main(void)
 	for (c = 'a'; c <= 'z'; c++)
 	{
 	if (c != 'q' && c != 'e')
-		fwrite(1, "abcdfjhijklmnoprstuvwxyz");
+		write(1, "abcdfjhijklmnoprstuvwxyz\n", 23);
 	putchar(c);
 	}
 

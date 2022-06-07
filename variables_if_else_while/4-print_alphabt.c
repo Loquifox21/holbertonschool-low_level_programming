@@ -6,13 +6,11 @@
 int main(void)
 {
 	char c;
-	char q;
-	char e;
 
 	for (c = 'a'; c <= 'z'; c++)
 	{
 	if (c != 'q' && c != 'e')
-		write(1, "abcdfjhijklmnoprstuvwxyz");
+		fwrite(1, "abcdfjhijklmnoprstuvwxyz");
 	putchar(c);
 	}
 

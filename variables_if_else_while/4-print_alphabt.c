@@ -11,10 +11,8 @@ int main(void)
 
 	for (c = 'a'; c <= 'z'; c++)
 	{
-	if ( q = 'q' )
-		fwrite( "" );
-	if ( e = 'e' )
-		fwrite ( "" );
+	if (c != 'q' && c != 'e')
+		write(1, "abcdfjhijklmnoprstuvwxyz");
 	putchar(c);
 	}
 

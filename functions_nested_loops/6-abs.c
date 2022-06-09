@@ -1,6 +1,6 @@
 #include <stdlib.h>
 /**
- * _isalpha - prints the alphabet
+ * _abs - prints the alphabet
  * @c : skere
  * Return: 0
  */

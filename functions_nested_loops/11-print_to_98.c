@@ -3,7 +3,7 @@
 
 /**
  * main - check the code
- *
+ * @n - variable
  * Return: Always 0.
  */
 

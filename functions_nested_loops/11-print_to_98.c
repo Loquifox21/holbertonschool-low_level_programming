@@ -2,8 +2,8 @@
 #include<stdio.h>
 
 /**
- * main - check the code
- * @n - variable
+ * print_to_98 - check the code
+ * @n: variable
  * Return: Always 0.
  */
 
